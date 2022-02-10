@@ -1,0 +1,19 @@
+.dark__mode {
+    background-color: #252121;
+    color: rgb(199, 219, 236);
+}
+
+.light__mode {
+    background-color: white;
+}
+
+.btn {
+    width: 50px;
+    height: 40px;
+    border-radius: 45%;
+}
+
+.btn:hover {
+    background-color: rgb(68, 142, 226);
+    transition-duration: 0.5s;
+}

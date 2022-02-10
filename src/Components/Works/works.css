@@ -1,0 +1,14 @@
+.link:hover {
+    color: rgb(68, 142, 226);
+}
+
+.link {
+    font-size: 30px;
+}
+
+.works {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

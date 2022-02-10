@@ -1,0 +1,23 @@
+nav {
+    height: 80px;
+    width: 100%;
+    border: 1px solid #dfdfdf;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    background-color: rgb(199, 219, 236);
+}
+
+.link-nav {
+    margin: auto;
+    font-size: 30px;
+}
+
+.link {
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.link:hover {
+    color: rgb(68, 142, 226);
+}
